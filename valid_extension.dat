@@ -1,0 +1,42 @@
+// This is not publicsuffix
+// Just tld extension which can accept as domain extension on WapBlog.ID
+
+// ===BEGIN TLD EXTENSION===
+com
+net
+org
+
+// ===END TLD EXTENSION===
+// ===BEGIN ccTLD EXTENSION===
+co
+cc
+de
+id
+my.id
+web.id
+me
+pw
+ws
+
+// ===BEGIN gTLD EXTENSION===
+asia
+biz
+blog
+design
+domains
+film
+fun
+gdn
+info
+mobi
+press
+pro
+site
+tech
+top
+work
+works
+xyz
+zone
+
+// ===END gTLD EXTENSION===
