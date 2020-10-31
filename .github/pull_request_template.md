@@ -12,6 +12,12 @@ https://github.com/WapBlog-ID/List/wiki/Format
 - [ ] Blog Target
 - [ ] DNS Validasi
 
+<!-- 
+Beri huruf x ditengah kurung siku untuk langkah yang selesai.
+Contoh
+[ ] menjadi [x] 
+-->
+
 Alasan
 ====
 <!-- Jelaskan alasanmu disini -->
