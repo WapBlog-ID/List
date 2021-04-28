@@ -79,6 +79,8 @@ zoom
 blog
 bloger
 bloghp
+console
+cdn
 dash
 domain
 email
@@ -90,6 +92,12 @@ mail
 official
 translate
 wapblog
+
+// ===Others===
+bar
+foo
+ipsum
+lorem
 
 // ===Pornography, Gambling, and others===
 // contain below word
